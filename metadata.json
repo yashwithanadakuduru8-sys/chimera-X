@@ -1,0 +1,6 @@
+{
+  "name": "chimera-x",
+  "description": "Enterprise intelligence operating system combining AI investigations, hidden network detection, digital forensics, and future simulation.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
